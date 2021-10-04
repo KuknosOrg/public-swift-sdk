@@ -1,6 +1,6 @@
-# stellar-ios-mac-sdk
+# Kuknos-ios-mac-sdk
 
-The Soneso open source stellar SDK for iOS &amp; Mac provides APIs to build transactions and connect to [Horizon](https://github.com/stellar/horizon).
+The Soneso open source Kuknos SDK for iOS &amp; Mac provides APIs to build transactions and connect to [Horizon](https://github.com/stellar/horizon).
 
 
 ## Installation
